@@ -1,0 +1,4 @@
+# 빌드 결과물만 올리는 저장소입니다. OS 가 만드는 파일만 제외합니다.
+Thumbs.db
+.DS_Store
+desktop.ini
